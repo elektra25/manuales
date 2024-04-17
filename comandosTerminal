@@ -1,0 +1,13 @@
+mkdir: nos permite crear carpetas, p. ej. mkdir NuevaCarpeta
+touch: nos permite crear archivos nuevos, p.ej. touch NuevoArchivo.txt
+cat: nos permite ver el contenido de un archivo, p.ej. cat NuevoArchivo.txt
+cd: nos permite cambiarnos de carpeta, p.ej. cd NuevaCarpeta.
+cd .. : nos permite regresar al directorio o carpeta anterior.
+cd o cd ~: nos lleva a la ruta del usuario.
+cd /c: nos vamos al disco C:/.
+cd -: nos lleva directamente al ultimo directorio visitado.
+ls: nos permite ver los archivos de la carpeta donde estamos actualmente.
+ls -l: Ver todos los archivos como una lista en donde incluye el usuario, grupo, permisos sobre el archivo, tamaño, fecha y hora de creación.
+ls -lha: Enlista los archivos en lenguaje humano
+code: abrir visual studio code
+rm: borrar archivo

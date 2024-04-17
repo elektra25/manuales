@@ -1,0 +1,7 @@
+Iniciar repositorio = git init
+Para saber el estado = git status
+Para prepara archivos antes de commit = git add .
+Para versionar = git commit -m "nombre de la version"
+Ver su repositorio remoto = git remote -v
+Ver las versiones de nuestro codigo = git log
+Recuperar una version no guardada = git reset  --hard codigo.log
